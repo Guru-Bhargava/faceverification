@@ -2,7 +2,7 @@
 # WHY DO WE NEED THIS: its needed to load the custom model
 
 # Import dependencies
-import tensorflow as tf
+# import tensorflow as tf
 from tensorflow.keras.layers import Layer
 
 # Custom L1 Distance Layer from Jupyter 
