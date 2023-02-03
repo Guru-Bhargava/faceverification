@@ -1,19 +1,19 @@
-from kivy.app import App
-from kivy.uix.boxlayout import BoxLayout
+# from kivy.app import App
+# from kivy.uix.boxlayout import BoxLayout
 
-# Import kivy UX components
-from kivy.uix.image import Image
-from kivy.uix.button import Button
-from kivy.uix.label import Label
+# # Import kivy UX components
+# from kivy.uix.image import Image
+# from kivy.uix.button import Button
+# from kivy.uix.label import Label
 
-# Import other kivy stuff
-from kivy.clock import Clock
-from kivy.graphics.texture import Texture
-from kivy.logger import Logger
+# # Import other kivy stuff
+# from kivy.clock import Clock
+# from kivy.graphics.texture import Texture
+# from kivy.logger import Logger
 
 # Import other dependencies
 import cv2
-import tensorflow as tf
+# import tensorflow as tf
 from layers import L1Dist
 import os
 import numpy as np
