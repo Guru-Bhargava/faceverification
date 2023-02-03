@@ -54,7 +54,6 @@ jupyterlab-pygments==0.2.2
 keras==2.10.0
 Keras-Preprocessing==1.1.2
 Kivy==2.1.0
-kivy-deps.angle==0.1.8
 kivy-deps.glew==0.3.1
 kivy-deps.gstreamer==0.3.3
 kivy-deps.sdl2==0.4.5
